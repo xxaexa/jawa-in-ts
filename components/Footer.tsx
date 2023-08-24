@@ -3,7 +3,7 @@ const Footer = () => {
     <div className="bg-yellow-200 mt-12">
       <div className="mx-auto w-10/12 py-2 grid md:grid-cols-5 md:place-items-center gap-4">
         <div>
-          <h2 className="font-bold text-2xl">JAVAIN</h2>
+          <h2 className="font-bold text-2xl">JAWA-IN</h2>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam
             neque, repellat cumque ipsam accusamus eius labore dolorum ratione
